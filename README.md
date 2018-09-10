@@ -9,3 +9,6 @@ download :)
 
 ## Step 2
 click to install :)
+
+## Step 3
+Now you can use Git !
